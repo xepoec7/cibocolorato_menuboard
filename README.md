@@ -1,5 +1,4 @@
 # cibocolorato_menuboard
-Restaurant Menu Board
 
 Crated with pygame.
 
